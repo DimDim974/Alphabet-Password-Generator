@@ -2,7 +2,7 @@
 Development language: Python 3.x  Generate a password from the alphabet and special characters.
 
 # Required
-Python 3.7 <=
+Python 3.5 <=
 
 # example of use for Windows
 C:\Users\%USERNAME%>python "F:\Projet\Mot de passe\Generation WordList.py"
