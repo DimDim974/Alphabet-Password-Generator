@@ -3,7 +3,8 @@ Development language: Python 3.x  Generate a password from the alphabet and spec
 
 # Required
 Language = Python 3.5 <=
-Operating System = Linux et Windows.
+
+Operating System = Linux et Windows
 
 # example of use for Windows
 C:\Users\%USERNAME%>python "F:\Projet\Mot de passe\Generation WordList.py"
