@@ -8,6 +8,7 @@ Operating System = Linux et Windows
 
 # example of use for Windows
 C:\Users\%USERNAME%>python "F:\Projet\Mot de passe\Generation WordList.py"
+
 Caractere Possible : ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+-*/~$%&.:?!@{}[]
 Choissisez le nombre de caractere pour votre mot de passe (1 a 30) : 0
 Erreur, ce n'est pas un chiffre, compris entre 1 et 30.
